@@ -1,0 +1,8 @@
+pandas
+numpy
+dash
+dash_bootstrap_components
+datetime
+plotly
+seaborn
+git+https://github.com/coddingtonbear/python-myfitnesspal.git
